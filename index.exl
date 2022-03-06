@@ -1,6 +1,13 @@
 <html>
-<head><style>foo{color:blue</style></head>
-<body>hello world<p class=foo>
-</p>
-</body>
-</html> 
+  <head>
+  <style>
+  .foo{
+        color:blue}
+          </style>
+         </head>
+    <body>
+    <p class="foo">hello world
+   
+   </p>
+  </body>
+   </html> 
